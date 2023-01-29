@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/seesaw-deploy/static/css/main.2a6289ca.css",
-    "main.js": "/seesaw-deploy/static/js/main.e75d33bb.js",
+    "main.css": "/seesaw-deploy/static/css/main.d4965d3c.css",
+    "main.js": "/seesaw-deploy/static/js/main.cfe685e2.js",
     "static/media/HelveticaNeueLTPro-BdCn.otf": "/seesaw-deploy/static/media/HelveticaNeueLTPro-BdCn.42c035337e933f79d063.otf",
     "static/media/HelveticaNeueLTPro-Md.otf": "/seesaw-deploy/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
     "index.html": "/seesaw-deploy/index.html",
-    "main.2a6289ca.css.map": "/seesaw-deploy/static/css/main.2a6289ca.css.map",
-    "main.e75d33bb.js.map": "/seesaw-deploy/static/js/main.e75d33bb.js.map"
+    "main.d4965d3c.css.map": "/seesaw-deploy/static/css/main.d4965d3c.css.map",
+    "main.cfe685e2.js.map": "/seesaw-deploy/static/js/main.cfe685e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a6289ca.css",
-    "static/js/main.e75d33bb.js"
+    "static/css/main.d4965d3c.css",
+    "static/js/main.cfe685e2.js"
   ]
 }
