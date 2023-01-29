@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/seesaw-deploy/static/css/main.9dec4f1e.css",
-    "main.js": "/seesaw-deploy/static/js/main.5e58bdbb.js",
-    "static/media/lobby.glb": "/seesaw-deploy/static/media/lobby.3df868a2e3ac336426bd.glb",
-    "static/media/city-v6.obj": "/seesaw-deploy/static/media/city-v6.4a16c0971b6dd8cd3593.obj",
+    "main.css": "/seesaw-deploy/static/css/main.2a6289ca.css",
+    "main.js": "/seesaw-deploy/static/js/main.e75d33bb.js",
     "static/media/HelveticaNeueLTPro-BdCn.otf": "/seesaw-deploy/static/media/HelveticaNeueLTPro-BdCn.42c035337e933f79d063.otf",
     "static/media/HelveticaNeueLTPro-Md.otf": "/seesaw-deploy/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
     "index.html": "/seesaw-deploy/index.html",
-    "main.9dec4f1e.css.map": "/seesaw-deploy/static/css/main.9dec4f1e.css.map",
-    "main.5e58bdbb.js.map": "/seesaw-deploy/static/js/main.5e58bdbb.js.map"
+    "main.2a6289ca.css.map": "/seesaw-deploy/static/css/main.2a6289ca.css.map",
+    "main.e75d33bb.js.map": "/seesaw-deploy/static/js/main.e75d33bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dec4f1e.css",
-    "static/js/main.5e58bdbb.js"
+    "static/css/main.2a6289ca.css",
+    "static/js/main.e75d33bb.js"
   ]
 }
